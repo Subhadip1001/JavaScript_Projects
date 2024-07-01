@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.container{
+    width: 50vmin;
+    padding: 20px 20px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    box-shadow: 0 0 6px 0 gray;
+    border-radius: 8px;
+    background-color: #ffff;
+}
+
+.input-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container input{
+    outline: none;
+    border: none;
+    width: 75%;
+    padding: 2px 2px;
+    border-bottom: 2px solid purple;
+}
+
+#addBtn{
+    width: 20%;
+    padding: 2px 2px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.task{
+    padding: 3px 3px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    border-bottom: 1.5px solid rgba(128, 0, 128, 0.395);
+    align-items: center;
+    cursor: pointer;
+}
+
+#check{
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.removeBtn{
+    border: none;
+    outline: none;
+    color: purple;
+    font-size: 12px;
+    background: transparent;
+    cursor: pointer;
+}
+
+.done{
+    text-decoration: line-through;
+}
