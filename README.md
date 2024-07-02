@@ -9,3 +9,7 @@ It is a basic Calculator which is calculate add, multiplication, subtraction and
 
 # Digital Clock
 It is a digital clock whic is showing always houre, miunite and second according to Indian time
+
+# Stone Paper Scissors
+It is a stone, paper, scissors game which you can paly for unlimited time.
+playing process : Coumputer randomly choose (stone, paper, scissor) any of them and you can choose any one of this three.
