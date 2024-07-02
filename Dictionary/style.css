@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(121, 53, 239);
+}
+
+.container{
+    width: 60vmin;
+    padding: 30px 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 8px;
+    box-shadow: 6px 6px 4px 1px rgba(51, 3, 134, 0.582);
+}
+
+.searching-word{
+    display: flex;
+    justify-content: space-between;
+}
+
+.searching-word input{
+    width: 75%;
+    padding: 8px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgb(121, 53, 239);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.searching-word button{
+    width: 19%;
+    padding: auto;
+    outline: none;
+    border: none;
+    background-color: rgb(121, 53, 239);
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sample-word{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.sample-word h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sample-word button{
+    border: none;
+    outline: none;
+    font-size: medium;
+    background: transparent;
+    color: rgb(121, 53, 239);
+    cursor: pointer;
+}
+
+.like-ele{
+    display: flex;
+    margin-top: 5px;
+    color: rgba(121, 53, 239, 0.658);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 50;
+    font-size: 13px;
+}
+
+.meaning{
+    margin-top: 15px;
+    word-wrap: break-word;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.explanation{
+    margin-top: 20px;
+    border-left: 2px solid rgb(121, 53, 239);
+}
+
+.exp-mess{
+    margin-left: 5px;
+    font-size: 15px;
+}
