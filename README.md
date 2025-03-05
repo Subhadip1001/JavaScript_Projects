@@ -1,21 +1,45 @@
-# JavaScript_Projects
-Below is the information of all the files 👇
+# JavaScript Projects Collection
 
-# Todo-App 
-It is a basic todo-list website using HTML, CSS & JS.
+A collection of interactive web applications built with HTML, CSS, and JavaScript.
 
-# Calculator
-It is a basic Calculator which is calculate add, multiplication, subtraction and division. ( with the help of HTML,CSS & JS )
+## Calculator
+A basic calculator application with arithmetic operations.
+- Features: Addition, subtraction, multiplication, division
+- Technologies: HTML, CSS, JavaScript
+- Live demo: /Calculator/index.html
 
-# Digital Clock
-It is a digital clock whic is showing always houre, miunite and second according to Indian time
+## Dictionary
+An online dictionary application using a dictionary API.
+- Features: Word lookup, phonetic pronunciation, meanings, examples 
+- Technologies: HTML, CSS, JavaScript, Dictionary API
+- Live demo: /Dictionary/index.html
 
-# Stone Paper Scissors
-It is a stone, paper, scissors game which you can paly for unlimited time.
-playing process : Coumputer randomly choose (stone, paper, scissor) any of them and you can choose any one of this three.
+## Digital Clock
+A real-time digital clock display.
+- Features: Hours, minutes, seconds in 24-hour format
+- Technologies: HTML, CSS, JavaScript
+- Live demo: /Digital Clock/index.html
 
-# Password generator
-Randomly generate password
+## Random Password Generator
+Generate secure random passwords.
+- Features: 12-character passwords with uppercase, lowercase, numbers and symbols
+- Technologies: HTML, CSS, JavaScript
+- Live demo: /Random Password Generator/index.html
 
-# Dictionary
-work as a dictionary
+## Rock Paper Scissors
+Classic rock paper scissors game against computer.
+- Features: Score tracking, computer opponent, win/lose detection
+- Technologies: HTML, CSS, JavaScript
+- Live demo: /Stone Paper Scissors/index.html
+
+## Todo App
+A simple todo list application.
+- Features: Add tasks, mark as complete, delete tasks
+- Technologies: HTML, CSS, JavaScript 
+- Live demo: /Todo App/index.html
+
+## Book Store (In Progress)
+An online bookstore application.
+- Features: Book listings, login/signup
+- Technologies: HTML, CSS, JavaScript
+- Live demo: /Book Store/index.html
