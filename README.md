@@ -38,7 +38,7 @@ A simple todo list application.
 - Technologies: HTML, CSS, JavaScript 
 - Live demo: /Todo App/index.html
 
-## Book Store (In Progress)
+## Book Store
 An online bookstore application.
 - Features: Book listings, login/signup
 - Technologies: HTML, CSS, JavaScript
